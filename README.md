@@ -6,7 +6,7 @@
 - 📫 Email: chris.jose.castaneda@gmail.com 
 - ⚡ Favorite Meal: Steak Frites w/ Chimichurri Sauce
 
-More about me at -> {updated_site_soon}
+More about me at 👉 https://chris-d-jose.vercel.app
 
 
 
