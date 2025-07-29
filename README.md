@@ -1,7 +1,7 @@
 ## Hi , I'm Chris Jose 👋
 
 
-🔭 I’m currently working on a ~trading strategy~
+🔭 I’m currently working on a ***trading strategy***
 
 🌱 I’m interested in VAR/VECM cointegration, GARCH volatility, regime‑switch filters, and LSTM/Transformer models, specifically for high‑frequency forecasting, alpha, and VaR
 
