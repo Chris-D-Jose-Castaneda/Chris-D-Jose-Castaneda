@@ -13,5 +13,4 @@
 
 
 
-### Hey 👀 
-![Profile views badge](https://komarev.com/ghpvc/?username=Chris-D-Jose-Castaneda&color=0e75b6)  <!-- replace user -->
+### ![Profile views badge](https://komarev.com/ghpvc/?username=Chris-D-Jose-Castaneda&color=0e75b6)  <!-- replace user -->
