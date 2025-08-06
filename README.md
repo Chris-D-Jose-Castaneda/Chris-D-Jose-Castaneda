@@ -14,3 +14,5 @@
 
 
 ### ![Profile views badge](https://komarev.com/ghpvc/?username=Chris-D-Jose-Castaneda&color=0e75b6)  <!-- replace user -->
+
+![Profile views](https://raw.githubusercontent.com/Chris-D-Jose-Castaneda/github-profile-views-counter/master/svg/profile/badge.svg)
