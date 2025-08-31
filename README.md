@@ -4,6 +4,7 @@
 🔭 Currently working on a the followingt two projects
 - ***trading strategy for top 10 tech stocks w/ a Monte Carlo backtest***
 - **premier league prediction for the current season**
+- **recovering from getting my wisdom teeth extracted.**
 
 🌱 I specialize in applying VAR/VECM cointegration, GARCH volatility modeling, regime-switch frameworks, and deep-learning architectures such as LSTMs and Transformers to high-frequency forecasting, alpha generation, and VaR estimation.
 
