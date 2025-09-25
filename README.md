@@ -2,9 +2,9 @@
 
 
 🔭 Currently working on a the followingt:
-- learning more about finance and platforms such as WorkSpace, FactSet, & Cap IQ
+- Finalizing README for pl prediction & its app
 
-🌱 I specialize in applying VAR/VECM cointegration, GARCH volatility modeling, regime-switch frameworks, and deep-learning architectures such as LSTMs and Transformers to high-frequency forecasting, alpha generation, and VaR estimation.
+🌱 I specialize in transforming multi asset market and fundamentals data into actionable models & dashboards using a modern analytics stack to drive valuation, risk, performance, as well as reporting insights.
 
 📫 Email: chris.jose.castaneda@gmail.com 
 
