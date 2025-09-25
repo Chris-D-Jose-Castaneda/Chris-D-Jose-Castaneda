@@ -1,8 +1,8 @@
 ## Hi , I'm Chris Jose 👋
 
 
-🔭 Currently working on a the followingt two projects
-- **trading strategy for top 10 tech stocks. **
+🔭 Currently working on a the followingt:
+- learning more about finance and platforms such as WorkSpace, FactSet, & Cap IQ
 
 🌱 I specialize in applying VAR/VECM cointegration, GARCH volatility modeling, regime-switch frameworks, and deep-learning architectures such as LSTMs and Transformers to high-frequency forecasting, alpha generation, and VaR estimation.
 
