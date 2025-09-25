@@ -8,7 +8,7 @@
 
 📫 Email: chris.jose.castaneda@gmail.com 
 
-⚡ Favorite Meal: Tuna Steak w/ roasted potatoes 
+⚡ Favorite Meal: Spaghetti al Pomodoro
 
 *More about me at 👉 https://chris-d-jose.vercel.app*
 
