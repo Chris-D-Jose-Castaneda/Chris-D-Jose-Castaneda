@@ -8,7 +8,7 @@
 
 📫 Email: chris.jose.castaneda@gmail.com 
 
-⚡ Favorite Meal: Spaghetti al Pomodoro
+⚡ Favorite Meal: Texas Brisket w/ a side of Mac n Cheese + Potato Salad
 
 *More about me at 👉 https://chris-d-jose.vercel.app*
 
