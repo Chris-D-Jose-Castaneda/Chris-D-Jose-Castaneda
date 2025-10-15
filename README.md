@@ -1,4 +1,4 @@
-## Hi , I'm Chris Jose 👋
+## Hi, I'm Chris Jose 👋
 
 
 🔭 Currently working on a the followingt:
