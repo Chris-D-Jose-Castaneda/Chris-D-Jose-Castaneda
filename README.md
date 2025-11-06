@@ -1,14 +1,14 @@
 ## Hi, I'm Chris Jose 👋
 
 
-🔭 Currently working on a the followingt:
-- Finalizing README for pl prediction & its app
+🔭 Currently studying on the following:
+- CFA L1: Quant Methods
 
 🌱 I specialize in transforming multi asset market and fundamentals data into actionable models & dashboards using a modern analytics stack to drive valuation, risk, performance, as well as reporting insights.
 
 📫 Email: chris.jose.castaneda@gmail.com 
 
-⚡ Favorite Meal: Texas Brisket w/ a side of Mac n Cheese + Potato Salad
+⚡ Favorite Meal: Steak & Roasted Potatoes w/ chimmichurri
 
 *More about me at 👉 https://chris-d-jose.vercel.app*
 
