@@ -2,7 +2,7 @@
 
 
 🔭 Currently studying on the following:
-- CFA L1: Quant Methods
+- CFA L1: derivatives
 
 🌱 I specialize in transforming multi asset market and fundamentals data into actionable models & dashboards using a modern analytics stack to drive valuation, risk, performance, as well as reporting insights.
 
