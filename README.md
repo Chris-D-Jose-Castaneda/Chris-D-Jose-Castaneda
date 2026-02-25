@@ -1,8 +1,8 @@
 ## Hi, I'm Chris Jose 👋
 
 
-🔭 Currently studying on the following:
-- CFA L1 (& updating on app that contains resources)
+🔭 Currently:
+- macro econ analysis based on historical  
 
 🌱 I specialize in transforming multi asset market and fundamentals data into actionable models & dashboards using a modern analytics stack to drive valuation, risk, performance, as well as reporting insights.
 
