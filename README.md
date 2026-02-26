@@ -2,9 +2,9 @@
 
 
 🔭 Currently:
-- macro econ analysis based on historical  
+- macro econ analysis based on historical data
 
-🌱 I specialize in transforming multi asset market and fundamentals data into actionable models & dashboards using a modern analytics stack to drive valuation, risk, performance, as well as reporting insights.
+🌱 I specialize in analyzing market data from various asset classes & transforming them into actionable models & dashboards to improve decision making.
 
 📫 Email: chris.jose.castaneda@gmail.com 
 
