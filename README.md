@@ -22,7 +22,6 @@ I specialize in analyzing data from various asset classes & transforming them in
 ![Workspace](https://img.shields.io/badge/Workspace-1F6FEB?style=for-the-badge)
 ![Capital IQ](https://img.shields.io/badge/Capital_IQ-C8102E?style=for-the-badge)
 ![FactSet](https://img.shields.io/badge/FactSet-2C2C2C?style=for-the-badge)
-![FRED API](https://img.shields.io/badge/FRED_API-2E86C1?style=for-the-badge)
 
 📫 Email: chris.jose.castaneda@gmail.com 
 
