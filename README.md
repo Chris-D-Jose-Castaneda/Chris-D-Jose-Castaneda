@@ -1,4 +1,8 @@
-## Hi, I'm Chris Jose 👋
+<div align="center">
+
+## Hi, I'm Chris Jose👋
+
+</div>
 
 I specialize in analyzing data from various asset classes & transforming them into actionable models & dashboards to improve decision making.
 
