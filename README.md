@@ -4,7 +4,7 @@
 
 </div>
 
-I specialize in analyzing data from various asset classes & transforming them into actionable models & dashboards to improve decision making.
+I'm interested in analyzing various asset classes & transforming them into actionable models/dashboards to improve decision making.
 
 ### 🖥️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
